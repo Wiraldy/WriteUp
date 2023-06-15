@@ -1,0 +1,7 @@
+Wiraldy Manggala Simanjuntak
+
+Pelajaran ini membahas konsep dasar keamanan sistem dan pentingnya melindungi data dan sumber daya penting dari serangan atau ancaman potensial.
+
+Dalam web exploitation, saya mempelajari identifikasi dan penilaian kerentanan dalam aplikasi web, termasuk teknik seperti SQL injection, cross-site scripting (XSS), cross-site request forgery (CSRF), dan cara mengamankan aplikasi web dari serangan-serangan tersebut.
+
+Dalam kriptografi, sayamempelajari teknik pengamanan data dan informasi menggunakan algoritma matematis, termasuk enkripsi, dekripsi, dan berbagai jenis algoritma kriptografi.
